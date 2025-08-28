@@ -1,0 +1,47 @@
+name: flutter_assignment_2_grocery_app_ui
+description: A Flutter grocery app UI with modern design and features.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.8
+  get: ^4.7.2 # for state management and context less stuff
+  flutter_screenutil: ^5.9.3 # make app responsive
+  shared_preferences: ^2.5.3 # shared preferences persistence key value store
+  flutter_launcher_icons: ^0.14.4 # change app icon
+  change_app_package_name: ^1.5.0 # change package name
+  rename_app: ^1.6.5 # rename app
+  flutter_svg: ^2.2.0 # for svg icons
+  carousel_slider: ^5.1.1 # for image slider
+  badges: ^3.1.2 # for badges
+  flutter_animate: ^4.5.2 # for animation
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/vectors/
+    - screenshots/
+  
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700

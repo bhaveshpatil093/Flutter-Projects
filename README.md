@@ -1,8 +1,20 @@
 # Flutter Projects
 
+<p align="left">
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-stable-02569B?logo=flutter&logoColor=white" alt="Flutter"></a>
+  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white" alt="Dart"></a>
+  <a href="https://github.com/bhaveshpatil093/Flutter-Projects/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
+</p>
+
 This repository contains Flutter mobile application projects showcasing modern UI design and development practices.
 
 ## Projects
+
+| # | Assignment | Path | Brief |
+|---|------------|------|-------|
+| 1 | Plant Store UI | [./Flutter Assignment 1 - Plant Store UI](./Flutter%20Assignment%201%20-%20Plant%20Store%20UI/) | Modern plant store app UI with catalog, cart, profile |
+| 2 | Grocery App UI | [./Flutter Assignment 2 - Grocery App UI](./Flutter%20Assignment%202%20-%20Grocery%20App%20UI/) | Grocery shopping app UI with categories, cart, themes |
+| 3 | Firebase Recipe App | [./Flutter Assignment 3 - Firebase Recipe App](./Flutter%20Assignment%203%20-%20Firebase%20Recipe%20App/) | Recipe listing, save favorites, add recipes (Firebase) |
 
 ### 🌱 [Flutter Assignment 1 - Plant Store UI](./Flutter%20Assignment%201%20-%20Plant%20Store%20UI/)
 

@@ -12,6 +12,16 @@ Nice clean plant app UI using flutter, the Home page you will get search box tha
 
 ![App UI](/plant.png)
 
+#### Screenshots
+
+- Home Screen
+
+  ![Home Screen](screenshots/Home%20Screen.png)
+
+- Plant Details Screen
+
+  ![Plant Details Screen](screenshots/Plant%20Details%20Screen.png)
+
 ---
 
 ## Run locally

@@ -25,6 +25,15 @@ A comprehensive grocery shopping application with:
 - GetX state management
 - Responsive layout using Flutter ScreenUtil
 
+### 🍽️ [Flutter Assignment 3 - Firebase Recipe App](./Flutter%20Assignment%203%20-%20Firebase%20Recipe%20App/)
+
+A recipe management app integrated with Firebase featuring:
+- Recipe search and listing
+- Save favorite recipes
+- Add and persist your own recipes
+- Clean UI with Material components
+- iOS and Android support
+
 ## Features
 
 Both applications demonstrate:
@@ -47,6 +56,8 @@ Both applications demonstrate:
    cd "Flutter Assignment 1 - Plant Store UI"
    # or
    cd "Flutter Assignment 2 - Grocery App UI"
+   # or
+   cd "Flutter Assignment 3 - Firebase Recipe App"
    ```
 
 3. Install dependencies:
